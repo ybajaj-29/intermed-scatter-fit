@@ -4,4 +4,4 @@ The intermediate scattering function I(q,t) is defined as the self-part of the F
 
 Instead of by Fourier transform, these functions can also be directly computed from atomic trajectories over the time evolution of an atomistic system in molecular dynamics (MD) simulations.
 
-This work focuses on characterizing the computed I(q,t) from "free" and "bound" isotactic polypropylene chains (iPP) near a carbon fiber (CF) interface by adding a stretch exponential component and estimating several key parameters to describe the dynamics. The file 'Presentation.pptx' has more details regarding the academic background.
+This work focuses on characterizing the computed I(q,t) from "free" and "bound" isotactic polypropylene chains (iPP) near a carbon fiber (CF) interface by fitting an expanded stretch exponential equation and estimating several key parameters. The file 'Presentation.pptx' has more details regarding the academic background, as well as why studying this topic is of interest.
